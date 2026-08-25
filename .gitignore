@@ -1,0 +1,6 @@
+tf-portfolio-env/
+__pycache__/
+*.pyc
+/data/
+/results/
+.env
