@@ -5,7 +5,7 @@ Fetch, Processes, Trains, Evals, etc, will or should at least be imported from t
 
 UNIVERSES =  {
 "sector_etfs": {
-    "tickers": ["XLK,", "XLF", "XLV", "XLY", "XLP", "XLI"],
+    "tickers": ["XLK", "XLF", "XLV", "XLY", "XLP", "XLI"],
     "description": "Sector rotation across SPDR sector ETFs",
 },
 "large_cap_stocks": {
@@ -28,4 +28,3 @@ END_DATE = "2026-12-31"
 RAW_DATA_DIR = "data/raw"
 PROCESSED_DATA_DIR = "data/processed"
 RESULTS_DIR = "data/results"
-
